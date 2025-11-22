@@ -1,0 +1,9 @@
+{
+    "Generator": {
+        "What is a generator?": "A generator produces electricity by converting mechanical energy into electrical energy.",
+        "Formula for generator power?": "Power (kW) = (Voltage \u00d7 Current \u00d7 Power Factor) / 1000",
+        "Difference between kW and kVA?": "kW is real power, kVA is apparent power.",
+        "How to calculate generator current if kW is given?": "Current (A) = (kW \u00d7 1000) / (Voltage \u00d7 Power Factor)",
+        "How to calculate kW if current is available?": "kW = (Voltage \u00d7 Current \u00d7 Power Factor) / 1000"
+    }
+}
