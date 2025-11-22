@@ -1,5 +1,9 @@
 # Python Notes App
 
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Ibrarhussainmughal/python_notes_app?style=for-the-badge)
+
 A simple, efficient Command Line Interface (CLI) application for managing personal notes, flashcards, and Q&A snippets.
 
 ## Features
